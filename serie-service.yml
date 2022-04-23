@@ -27,7 +27,7 @@ spring:
     mongodb:
       host: localhost
       port: 27018
-      database: series
+      database: test
 
 queue:
   serie:
