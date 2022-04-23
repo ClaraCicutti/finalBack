@@ -22,7 +22,7 @@ spring:
  #  base-url: http://zipkin:9411/
     enabled: true
   application:
-    name: series-service
+    name: serie-service
   data:
     mongodb:
       host: localhost
